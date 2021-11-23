@@ -1,0 +1,2 @@
+# Bash-Alias
+rm command is used to remove files in Linux. Even using –r option, you may recursively  remove a directory and every file or subdirectories inside. The command however is error-prone  because it removes the files/directories without any warning, and retrieving the deleted files is  not simple (not without using third-party tools).  This project aims to develop an alias for rm command which makes it possible to avoid deleting  files/directories mistakenly
